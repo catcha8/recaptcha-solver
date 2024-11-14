@@ -37,6 +37,7 @@ The solver works by mimicking real user interactions with reCAPTCHA services, by
 ## Supported site
 
 - [google.com](https://www.google.com/)
+- [gmail.com](https://www.gmail.com/)
 - [youtube.com](https://www.youtube.com/)
 - [spotify.com](https://www.spotify.com/)
 - [dev.to](https://www.dev.to/)
