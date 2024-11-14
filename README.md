@@ -1,4 +1,4 @@
-# **Google reCAPTCHA Fully Requests Based Solver with BotGuard Reverse**
+# **Google reCAPTCHA Fully Requests Based Solver**
 
 ## Release
 
