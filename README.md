@@ -148,4 +148,7 @@ For any questions, issues, or feature requests, feel free to open an issue or co
 ## Note for Google or BotGuard
 
 Please read your emails...
-  
+
+## [More infos](https://dev.to/catcha8/recaptcha-reverse-engineering-9b0)
+
+
