@@ -16,6 +16,7 @@ The solver works by mimicking real user interactions with reCAPTCHA services, by
 ## Features
 
 - **Google reCAPTCHA v2 & v3 Solving**: Efficiently solve both reCAPTCHA v2 and reCAPTCHA v3 challenges using request-based mechanisms.
+- **100% requests based**: Works only with requests, no browser shit !
 - **BotGuard Reverse Engineered Solver**: Bypass BotGuard protections that are designed to prevent bot traffic.
 - **Easy Integration**: Provides a simple API for integrating CAPTCHA solving into your scripts or applications.
 - **Automated Interaction Simulation**: Simulates human-like interaction to solve CAPTCHA challenges based on request analysis.
