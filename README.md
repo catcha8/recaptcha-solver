@@ -1,5 +1,14 @@
 # **Google reCAPTCHA Fully Requests Based Solver**
 
+## Contact
+
+For any questions, issues, or feature requests, feel free to open an issue or contact me at:
+
+- **GitHub**: [catcha8](https://github.com/catcha8)
+- **Discord**: [discord](https://discord.gg/XuGAPnAP45)
+
+---
+
 ## Release
 
 This project isn't fully finished right now, I need to train a lot more the AI. I'll let you know...
@@ -139,13 +148,6 @@ This project is **not affiliated** with Google or any CAPTCHA service. It is des
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## Contact
-
-For any questions, issues, or feature requests, feel free to open an issue or contact me at:
-
-- **GitHub**: [catcha8](https://github.com/catcha8)
-- **Discord**: [discord](https://discord.gg/XuGAPnAP45)
 
 ## Note for Google or BotGuard
 
