@@ -142,7 +142,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions, issues, or feature requests, feel free to open an issue or contact the maintainer at:
+For any questions, issues, or feature requests, feel free to open an issue or contact me at:
 
 - **GitHub**: [catcha8](https://github.com/catcha8)
 - **Discord**: [discord](https://discord.gg/XuGAPnAP45)
